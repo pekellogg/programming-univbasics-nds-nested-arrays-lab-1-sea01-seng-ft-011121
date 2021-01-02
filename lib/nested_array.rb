@@ -1,6 +1,6 @@
 # Examples inspired by U. S. National Organic Standards
 
-ORGANIC_PRODUCE = [
+organic_produce = [
   "Strawberries",
   "Potatoes",
   "Grapes",
@@ -8,7 +8,7 @@ ORGANIC_PRODUCE = [
   "Asparagus"
 ]
 
-CONVENTIONAL_PRODUCE = [
+conventional_produce = [
   "Grapefruit",
   "Pineapple",
   "Oranges",
