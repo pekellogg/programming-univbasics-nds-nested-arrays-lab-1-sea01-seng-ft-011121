@@ -25,10 +25,10 @@ end
 
 def sorted_matrix
   produce_section = [
-    ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
-    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+    ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"].sort,
+    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"].sort
   ]
-  produce_section.sort
+  # produce_section.sort
 end
 
 def matrix_lookup(matrix, row, column)
