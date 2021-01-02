@@ -24,6 +24,10 @@ def assembled_matrix
 end
 
 def sorted_matrix
+  produce_section = [
+    ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
+    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+  ]
   produce_section.sort
 end
 
